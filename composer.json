@@ -1,0 +1,16 @@
+{
+    "name": "rushev84/example",
+    "description": "example package",
+    "autoload": {
+        "psr-4": {
+            "Hex\\Example\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rushev84",
+            "email": "rushev84@yandex.ru"
+        }
+    ],
+    "require": {}
+}
